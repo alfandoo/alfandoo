@@ -1,5 +1,3 @@
-# Alfando
-
 **AI Engineer** based in Pekanbaru, Indonesia.  
 Specializing in production Generative AI, LangGraph multi-agent workflows, and advanced RAG architectures.
 
